@@ -1,0 +1,116 @@
+/**
+ TODO(you): Add CSS for the list that you create yourself!
+*/
+
+
+
+#header{
+	width: 100%;
+	height: 500px;
+	
+	/*添加图片作为容器背景*/
+	background-image: url(images/header.jpg);
+	background-size: 100% 100%;
+	background-repeat: none;
+}
+
+#header h1{
+	font-family: 黑体;
+	font-size: 36px;
+	font-weight: normal;
+	color: white;
+	text-align: center;	
+	padding: 220px;
+}
+
+#vrk{
+	text-align: center;
+}
+
+#vrk img{
+	height: 100px;
+	width: 100px;
+	border-radius: 100px;
+	margin-top: -50px;
+}
+
+#profile-text{
+	text-align: center;
+	font-family: 仿宋;
+	font-size: 18px;
+	font-weight: bold;
+	color: rgb(51,51,51);
+	line-height: 24px;
+	
+}
+
+/*添加自定义的下划线*/
+#profile-text span{
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e6e6e6;	
+}
+
+.Beverages {
+	width: 66.67%;
+	margin-left: 28%
+}
+
+.Beverages h1{
+	font-family: 黑体;
+	font-size: 36px;
+	font-weight: bold;
+	color: rgb(51,51,51);
+	margin-bottom: 0px;
+	
+}
+
+.Beverages span{
+	color: #A9A9A9
+}
+
+.Beverages a{
+	font-size: 18px;
+	color:	#42b4d6;
+	margin-top: 0px;	
+}
+
+/*鼠标经过链接时出现底纹*/
+.Beverages a{ text-decoration:none;}
+.Beverages a:hover{ text-decoration:underline; }
+
+.Beverages p{
+	font-family: 微软雅黑;
+	font-size: 18px;
+	line-height: 32px;
+	color: rgb(51,51,51);
+	width: 66.67%
+}
+
+.blank1 {
+	height: 20px;
+}
+
+.beverage img{
+	width: 66.67%
+}
+
+.blank2 {
+	height: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
